@@ -1,0 +1,1005 @@
+Year,10thMarks,12thMarks,12thDivision,Coed,College
+2019,90,89,3,no,IIT Bombay
+2015,95,92,2,yes,IIT delhi
+2018,91,80,6,yes,IIT kanpur
+2017,88,85,2,no,IIT kharagpur
+2016,89,84,1,yes,IIT guwahati
+2016,90,86,5,yes,IIT hydrabad
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,yes,IIT ropar
+2018,94,93,1,yes,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,yes,IIT tirupati
+2018,84,91,5,no,HBUT kanpur
+2016,85,92,2,yes,MNNIT allahabad
+2017,86,93,1,no,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,yes,IIT palakkad
+2015,83,84,6,no,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2017,75,89,1,yes,SRMIST chennai
+2016,81,87,2,yes,IIT bhilai
+2016,75,85,3,yes,IIT jammu
+2018,76,81,5,yes,NMIMS
+2018,81,89,4,no,IIT jodhpur
+2019,86,88,1,no,SSN college of ENGG
+2017,86,88,7,no,IIEST shibpur
+2016,74,94,1,yes,KLEF hydrabad
+2015,75,91,8,yes,University college of ENGG
+2018,84,92,2,yes,BIT Mesra
+2019,81,93,1,yes,MNIT jaipur
+2018,82,94,6,no,BMS college of ENGG
+2017,83,91,9,no,MSIT
+2018,94,84,8,yes,IIT Bombay
+2017,75,86,6,yes,IIT delhi
+2017,86,89,3,no,IIT kanpur
+2019,81,87,5,no,IIT kharagpur
+2018,82,85,8,yes,IIT guwahati
+2016,83,81,9,yes,IIT hydrabad
+2017,74,89,6,no,Netaji Subhas IT
+2019,84,88,5,yes,NIT trichy
+2019,76,88,8,no,S O A  university
+2015,94,94,9,yes,SRMIST chennai
+2018,85,95,2,no,IIT bhilai
+2017,86,91,5,yes,IIT jammu
+2016,84,92,8,no,NMIMS
+2016,89,93,6,yes,IIT jodhpur
+2018,75,89,1,no,SSN college of ENGG
+2019,86,88,2,yes,IIT kanpur
+2015,95,94,1,yes,Manipal IT
+2018,85,91,3,yes,IIT palakkad
+2017,91,92,1,yes,Ahemedabad IT
+2016,92,93,1,yes,S O A  university
+2016,94,94,8,yes,SRMIST chennai
+2018,95,91,1,no,IIT bhilai
+2018,91,84,9,yes,IIT jammu
+2019,92,86,9,no,NMIMS
+2018,93,89,6,yes,IIT jodhpur
+2017,89,87,1,no,SSN college of ENGG
+2018,88,85,1,no,IIEST shibpur
+2017,94,81,1,no,KLEF hydrabad
+2017,91,89,1,no,University college of ENGG
+2019,92,88,8,yes,BIT Mesra
+2018,93,88,9,no,MNIT jaipur
+2016,94,94,5,no,BMS college of ENGG
+2017,91,85,6,no,MSIT
+2019,84,81,1,no,IIT kharagpur
+2019,86,82,1,yes,IIT guwahati
+2015,89,89,1,yes,IIT hydrabad
+2017,87,93,1,yes,Netaji Subhas IT
+2016,85,88,5,yes,NIT trichy
+2016,81,94,2,yes,S O A  university
+2018,89,85,3,yes,SRMIST chennai
+2018,88,81,6,no,IIT bhilai
+2019,88,82,4,no,IIT jammu
+2017,94,89,4,yes,NMIMS
+2016,85,93,4,yes,IIT jodhpur
+2015,81,89,1,yes,VIT vellore
+2018,82,88,1,yes,DTU delhi
+2019,89,94,8,no,IIT ropar
+2018,93,91,2,yes,IIT mandi
+2017,89,92,6,no,IIIT hydrabad
+2017,88,93,1,yes,NIT warangal
+2019,94,94,1,no,IIT tirupati
+2018,91,91,3,yes,HBUT kanpur
+2016,92,84,1,no,MNNIT allahabad
+2017,93,86,4,yes,IIT goa
+2019,94,89,7,no,Manipal IT
+2019,91,87,5,no,IIT palakkad
+2015,84,85,4,no,Ahemedabad IT
+2018,86,81,5,no,S O A  university
+2017,89,89,5,yes,IIT Bombay
+2016,87,88,6,no,IIT delhi
+2016,85,88,5,no,IIT kanpur
+2018,81,94,2,no,IIT kharagpur
+2018,89,93,3,no,IIT guwahati
+2017,88,89,6,yes,IIT hydrabad
+2016,88,88,4,yes,Netaji Subhas IT
+2016,94,88,4,yes,NIT trichy
+2018,93,89,4,yes,S O A  university
+2018,89,90,1,yes,SRMIST chennai
+2019,88,80,1,yes,IIT bhilai
+2017,94,86,8,no,IIT jammu
+2016,91,78,2,no,NMIMS
+2015,92,85,6,yes,IIT jodhpur
+2018,93,81,1,yes,SSN college of ENGG
+2019,94,75,1,yes,IIT kanpur
+2018,91,85,3,yes,Manipal IT
+2017,84,76,1,no,IIT palakkad
+2017,86,94,4,yes,IIT jodhpur
+2019,89,75,7,no,SSN college of ENGG
+2018,87,89,5,yes,IIEST shibpur
+2016,85,82,4,no,KLEF hydrabad
+2017,81,84,5,yes,University college of ENGG
+2019,89,85,5,no,BIT Mesra
+2019,88,86,6,yes,MNIT jaipur
+2015,88,91,4,no,BMS college of ENGG
+2018,94,76,1,no,MSIT
+2017,91,83,1,no,IIT Bombay
+2016,92,94,8,no,Manipal IT
+2016,93,75,2,yes,IIT palakkad
+2018,94,81,6,no,Ahemedabad IT
+2018,91,75,1,no,S O A  university
+2019,84,76,1,no,SRMIST chennai
+2015,86,81,3,no,IIT bhilai
+2017,89,86,1,yes,IIT jammu
+2016,87,86,4,yes,NMIMS
+2016,85,74,7,yes,IIT indore
+2018,81,75,5,yes,SSN college of ENGG
+2018,89,84,4,yes,IIEST shibpur
+2019,88,81,5,yes,KLEF hydrabad
+2017,88,82,5,no,University college of ENGG
+2016,94,83,6,no,BIT Mesra
+2015,85,94,5,yes,MNIT jaipur
+2018,81,75,2,yes,BMS college of ENGG
+2019,82,86,3,yes,MSIT
+2018,89,81,6,yes,IIT Bombay
+2017,93,82,4,no,Manipal IT
+2017,89,83,4,yes,IIT palakkad
+2019,88,74,4,no,Ahemedabad IT
+2018,94,84,1,yes,S O A  university
+2016,91,76,1,no,HBUT kanpur
+2017,92,94,8,yes,MNNIT allahabad
+2019,93,85,2,no,IIT goa
+2019,94,86,6,yes,Manipal IT
+2015,91,88,1,yes,IIT palakkad
+2018,84,88,1,no,Ahemedabad IT
+2017,86,94,3,no,S O A  university
+2016,89,85,1,no,Manipal IT
+2016,87,81,4,no,IIT palakkad
+2018,85,82,7,no,Ahemedabad IT
+2018,81,89,5,yes,IIT indore
+2017,89,93,4,no,BITS pilani
+2016,88,89,5,no,Jadavpur Univversity
+2016,88,88,5,no,VIT vellore
+2018,94,94,6,no,DTU delhi
+2018,93,91,5,yes,IIT ropar
+2019,89,92,2,yes,IIT mandi
+2017,88,93,3,yes,IIIT hydrabad
+2016,94,94,6,yes,NIT warangal
+2015,91,91,4,yes,IIT tirupati
+2018,92,84,4,yes,HBUT kanpur
+2019,93,86,1,no,MNNIT allahabad
+2018,94,89,8,no,IIT goa
+2017,91,87,2,yes,Manipal IT
+2017,84,85,6,yes,IIT palakkad
+2019,86,81,1,yes,Ahemedabad IT
+2018,89,89,1,yes,S O A  university
+2016,87,88,3,no,HBUT kanpur
+2017,86,88,1,yes,MNNIT allahabad
+2016,89,94,4,no,IIT goa
+2016,87,93,7,yes,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,yes,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,80,89,6,yes,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,yes,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,yes,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,no,IIT tirupati
+2018,84,91,5,no,HBUT kanpur
+2016,85,92,2,no,MNNIT allahabad
+2017,86,93,1,yes,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,no,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2017,75,89,1,yes,SRMIST chennai
+2016,81,87,2,yes,IIT bhilai
+2016,75,85,3,yes,IIT jammu
+2018,76,81,5,yes,NMIMS
+2018,81,89,4,yes,IIT jodhpur
+2019,86,88,1,yes,SSN college of ENGG
+2017,86,88,7,no,IIEST shibpur
+2016,74,94,1,no,KLEF hydrabad
+2015,75,91,8,yes,University college of ENGG
+2018,84,92,2,yes,BIT Mesra
+2019,81,93,1,yes,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,yes,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,no,MSIT
+2019,86,93,1,no,IIT Bombay
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,no,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,yes,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,yes,Jadavpur Univversity
+2015,75,88,3,yes,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2019,93,86,1,yes,MNNIT allahabad
+2018,94,89,8,yes,IIT goa
+2017,91,87,2,yes,Manipal IT
+2017,84,85,6,no,IIT palakkad
+2019,86,81,1,yes,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,yes,HBUT kanpur
+2017,86,88,1,no,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,no,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,yes,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,yes,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2019,93,86,1,yes,MNNIT allahabad
+2018,94,89,8,yes,IIT goa
+2017,91,87,2,no,Manipal IT
+2017,84,85,6,no,IIT palakkad
+2019,86,81,1,yes,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,yes,HBUT kanpur
+2017,86,88,1,yes,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2018,93,89,4,yes,S O A  university
+2018,89,90,1,yes,SRMIST chennai
+2019,88,80,1,yes,IIT bhilai
+2017,94,86,8,yes,IIT jammu
+2016,91,78,2,yes,NMIMS
+2015,92,85,6,yes,IIT jodhpur
+2018,93,81,1,no,SSN college of ENGG
+2019,94,75,1,no,IIT kanpur
+2018,91,85,3,yes,Manipal IT
+2017,84,76,1,yes,IIT palakkad
+2017,86,94,4,yes,IIT jodhpur
+2019,89,75,7,yes,SSN college of ENGG
+2018,87,89,5,no,IIEST shibpur
+2016,85,82,4,yes,KLEF hydrabad
+2017,81,84,5,no,University college of ENGG
+2019,89,85,5,yes,BIT Mesra
+2019,88,86,6,no,MNIT jaipur
+2015,88,91,4,yes,BMS college of ENGG
+2018,94,76,1,no,MSIT
+2017,91,83,1,yes,IIT Bombay
+2016,92,94,8,no,Manipal IT
+2016,93,75,2,no,IIT palakkad
+2018,94,81,6,no,Ahemedabad IT
+2018,91,75,1,no,S O A  university
+2019,84,76,1,yes,SRMIST chennai
+2015,86,81,3,no,IIT bhilai
+2017,89,86,1,no,IIT jammu
+2016,87,86,4,no,NMIMS
+2016,85,74,7,no,IIT indore
+2018,81,75,5,yes,SSN college of ENGG
+2018,89,84,4,yes,IIEST shibpur
+2019,88,81,5,yes,KLEF hydrabad
+2017,88,82,5,yes,University college of ENGG
+2016,94,83,6,no,BIT Mesra
+2015,85,94,5,no,MNIT jaipur
+2018,81,75,2,no,BMS college of ENGG
+2019,82,86,3,no,MSIT
+2018,89,81,6,yes,IIT Bombay
+2017,93,82,4,no,Manipal IT
+2017,89,83,4,no,IIT palakkad
+2019,88,74,4,no,Ahemedabad IT
+2018,94,84,1,no,S O A  university
+2016,91,76,1,yes,HBUT kanpur
+2017,92,94,8,yes,MNNIT allahabad
+2019,93,85,2,yes,IIT goa
+2019,94,86,6,yes,Manipal IT
+2015,91,88,1,yes,IIT palakkad
+2018,84,88,1,yes,Ahemedabad IT
+2017,86,94,3,no,S O A  university
+2016,89,85,1,no,Manipal IT
+2016,87,81,4,yes,IIT palakkad
+2018,85,82,7,yes,Ahemedabad IT
+2018,81,89,5,yes,IIT indore
+2017,89,93,4,yes,BITS pilani
+2016,88,89,5,no,Jadavpur Univversity
+2016,88,88,5,yes,VIT vellore
+2018,94,94,6,no,DTU delhi
+2018,93,91,5,yes,IIT ropar
+2019,89,92,2,no,IIT mandi
+2017,88,93,3,yes,IIIT hydrabad
+2016,94,94,6,no,NIT warangal
+2015,91,91,4,yes,IIT tirupati
+2018,92,84,4,no,HBUT kanpur
+2019,93,86,1,no,MNNIT allahabad
+2018,94,89,8,no,IIT goa
+2017,91,87,2,no,Manipal IT
+2017,84,85,6,yes,IIT palakkad
+2019,86,81,1,no,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,no,HBUT kanpur
+2017,86,88,1,no,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,yes,Manipal IT
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,no,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,yes,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,yes,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,yes,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,no,IIT tirupati
+2018,84,91,5,yes,HBUT kanpur
+2016,85,92,2,no,MNNIT allahabad
+2017,86,93,1,no,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,yes,Ahemedabad IT
+2018,94,86,5,yes,S O A  university
+2017,75,89,1,yes,SRMIST chennai
+2016,81,87,2,yes,IIT bhilai
+2016,75,85,3,no,IIT jammu
+2018,76,81,5,no,NMIMS
+2018,81,89,4,no,IIT jodhpur
+2019,86,88,1,no,SSN college of ENGG
+2017,86,88,7,yes,IIEST shibpur
+2016,74,94,1,no,KLEF hydrabad
+2015,75,91,8,no,University college of ENGG
+2018,84,92,2,no,BIT Mesra
+2019,81,93,1,no,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,yes,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,yes,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,no,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,yes,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,no,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2019,93,86,1,no,MNNIT allahabad
+2018,94,89,8,yes,IIT goa
+2017,91,87,2,yes,Manipal IT
+2017,84,85,6,yes,IIT palakkad
+2019,86,81,1,yes,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,no,HBUT kanpur
+2017,86,88,1,no,MNNIT allahabad
+2016,89,94,4,no,IIT goa
+2016,87,93,7,yes,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,no,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,yes,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,no,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2019,86,81,1,no,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,no,HBUT kanpur
+2017,86,88,1,no,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,yes,Manipal IT
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,no,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,yes,IIT ropar
+2018,94,93,1,yes,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,yes,IIT tirupati
+2018,84,91,5,no,HBUT kanpur
+2016,85,92,2,yes,MNNIT allahabad
+2017,86,93,1,no,IIT goa
+2019,91,94,3,yes,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,yes,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2017,75,89,1,no,SRMIST chennai
+2016,81,87,2,no,IIT bhilai
+2016,75,85,3,no,IIT jammu
+2018,76,81,5,yes,NMIMS
+2018,81,89,4,no,IIT jodhpur
+2019,86,88,1,no,SSN college of ENGG
+2017,86,88,7,no,IIEST shibpur
+2016,74,94,1,no,KLEF hydrabad
+2015,75,91,8,yes,University college of ENGG
+2018,84,92,2,yes,BIT Mesra
+2019,81,93,1,yes,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,yes,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,no,MNIT jaipur
+2017,91,91,1,no,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,yes,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,no,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,yes,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,no,IIT tirupati
+2018,84,91,5,no,HBUT kanpur
+2016,85,92,2,yes,MNNIT allahabad
+2017,86,93,1,yes,IIT goa
+2019,91,94,3,yes,Manipal IT
+2019,76,91,1,yes,IIT palakkad
+2015,83,84,6,no,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2016,89,94,4,no,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,no,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2018,93,89,4,yes,S O A  university
+2018,89,90,1,yes,SRMIST chennai
+2019,88,80,1,yes,IIT bhilai
+2017,94,86,8,no,IIT jammu
+2016,91,78,2,no,NMIMS
+2015,92,85,6,yes,IIT jodhpur
+2018,93,81,1,yes,SSN college of ENGG
+2019,94,75,1,yes,IIT kanpur
+2018,91,85,3,yes,Manipal IT
+2017,84,76,1,no,IIT palakkad
+2017,86,94,4,yes,IIT jodhpur
+2019,89,75,7,no,SSN college of ENGG
+2018,87,89,5,yes,IIEST shibpur
+2016,85,82,4,no,KLEF hydrabad
+2017,81,84,5,yes,University college of ENGG
+2019,89,85,5,no,BIT Mesra
+2019,88,86,6,yes,MNIT jaipur
+2015,88,91,4,no,BMS college of ENGG
+2018,94,76,1,no,MSIT
+2017,91,83,1,no,IIT Bombay
+2016,92,94,8,no,Manipal IT
+2016,93,75,2,yes,IIT palakkad
+2018,94,81,6,no,Ahemedabad IT
+2018,91,75,1,no,S O A  university
+2019,84,76,1,no,SRMIST chennai
+2015,86,81,3,no,IIT bhilai
+2017,89,86,1,yes,IIT jammu
+2016,87,86,4,yes,NMIMS
+2016,85,74,7,yes,IIT indore
+2018,81,75,5,yes,SSN college of ENGG
+2018,89,84,4,no,IIEST shibpur
+2019,88,81,5,no,KLEF hydrabad
+2017,88,82,5,no,University college of ENGG
+2016,94,83,6,no,BIT Mesra
+2015,85,94,5,yes,MNIT jaipur
+2018,81,75,2,no,BMS college of ENGG
+2019,82,86,3,no,MSIT
+2018,89,81,6,no,IIT Bombay
+2017,93,82,4,no,Manipal IT
+2017,89,83,4,yes,IIT palakkad
+2019,88,74,4,yes,Ahemedabad IT
+2018,94,84,1,yes,S O A  university
+2016,91,76,1,yes,HBUT kanpur
+2017,92,94,8,yes,MNNIT allahabad
+2019,93,85,2,yes,IIT goa
+2019,94,86,6,no,Manipal IT
+2015,91,88,1,no,IIT palakkad
+2018,84,88,1,yes,Ahemedabad IT
+2017,86,94,3,yes,S O A  university
+2016,89,85,1,yes,Manipal IT
+2016,87,81,4,yes,IIT palakkad
+2018,85,82,7,no,Ahemedabad IT
+2018,81,89,5,yes,IIT indore
+2017,89,93,4,no,BITS pilani
+2016,88,89,5,yes,Jadavpur Univversity
+2016,88,88,5,no,VIT vellore
+2018,94,94,6,yes,DTU delhi
+2018,93,91,5,no,IIT ropar
+2019,89,92,2,yes,IIT mandi
+2017,88,93,3,no,IIIT hydrabad
+2016,94,94,6,no,NIT warangal
+2015,91,91,4,no,IIT tirupati
+2018,92,84,4,no,HBUT kanpur
+2019,93,86,1,yes,MNNIT allahabad
+2018,94,89,8,no,IIT goa
+2017,91,87,2,no,Manipal IT
+2017,84,85,6,no,IIT palakkad
+2019,86,81,1,no,Ahemedabad IT
+2018,89,89,1,yes,S O A  university
+2016,87,88,3,yes,HBUT kanpur
+2017,86,88,1,yes,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,yes,KLEF hydrabad
+2018,92,89,6,yes,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,no,BMS college of ENGG
+2017,84,92,3,no,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,yes,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,80,89,6,yes,Netaji Subhas IT
+2018,86,87,8,no,NIT trichy
+2019,78,85,11,yes,IIT indore
+2017,85,81,5,no,BITS pilani
+2016,81,89,9,yes,Jadavpur Univversity
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2017,89,88,3,no,NIT warangal
+2019,82,94,9,no,IIT tirupati
+2018,84,91,5,no,HBUT kanpur
+2016,85,92,2,no,MNNIT allahabad
+2017,86,93,1,yes,IIT goa
+2019,91,94,3,yes,Manipal IT
+2019,76,91,1,yes,IIT palakkad
+2015,83,84,6,yes,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2017,75,89,1,no,SRMIST chennai
+2016,81,87,2,no,IIT bhilai
+2016,75,85,3,no,IIT jammu
+2018,76,81,5,yes,NMIMS
+2018,81,89,4,no,IIT jodhpur
+2019,86,88,1,no,SSN college of ENGG
+2017,86,88,7,no,IIEST shibpur
+2016,74,94,1,no,KLEF hydrabad
+2015,75,91,8,yes,University college of ENGG
+2018,84,92,2,yes,BIT Mesra
+2019,81,93,1,yes,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,yes,KLEF hydrabad
+2018,92,89,6,yes,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,no,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,no,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,no,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,yes,BITS pilani
+2016,81,89,9,no,Jadavpur Univversity
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,yes,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2019,93,86,1,yes,MNNIT allahabad
+2018,94,89,8,yes,IIT goa
+2017,91,87,2,no,Manipal IT
+2017,84,85,6,no,IIT palakkad
+2019,86,81,1,no,Ahemedabad IT
+2018,89,89,1,no,S O A  university
+2016,87,88,3,yes,HBUT kanpur
+2017,86,88,1,no,MNNIT allahabad
+2016,89,94,4,no,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,yes,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,no,MNIT jaipur
+2017,91,91,1,no,BMS college of ENGG
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,yes,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,no,IIT hydrabad
+2019,86,81,1,no,Ahemedabad IT
+2018,89,89,1,yes,S O A  university
+2016,87,88,3,yes,HBUT kanpur
+2017,86,88,1,yes,MNNIT allahabad
+2016,89,94,4,yes,IIT goa
+2016,87,93,7,no,Manipal IT
+2018,85,89,5,no,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,no,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2015,75,88,3,yes,VIT vellore
+2018,85,88,6,yes,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,yes,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2017,89,88,3,yes,NIT warangal
+2019,82,94,9,no,IIT tirupati
+2018,84,91,5,yes,HBUT kanpur
+2016,85,92,2,no,MNNIT allahabad
+2017,86,93,1,yes,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,no,Ahemedabad IT
+2018,94,86,5,no,S O A  university
+2017,75,89,1,yes,SRMIST chennai
+2016,81,87,2,no,IIT bhilai
+2016,75,85,3,no,IIT jammu
+2018,76,81,5,no,NMIMS
+2018,81,89,4,no,IIT jodhpur
+2019,86,88,1,yes,SSN college of ENGG
+2017,86,88,7,yes,IIEST shibpur
+2016,74,94,1,yes,KLEF hydrabad
+2015,75,91,8,yes,University college of ENGG
+2018,84,92,2,no,BIT Mesra
+2019,81,93,1,no,MNIT jaipur
+2018,82,94,6,no,BMS college of ENGG
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,94,94,5,yes,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,no,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,no,SRMIST chennai
+2016,88,88,6,yes,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2015,75,88,3,yes,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,no,IIIT hydrabad
+2017,89,88,3,yes,NIT warangal
+2019,82,94,9,yes,IIT tirupati
+2018,84,91,5,yes,HBUT kanpur
+2016,85,92,2,yes,MNNIT allahabad
+2017,86,93,1,no,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,no,Ahemedabad IT
+2019,86,88,1,yes,SSN college of ENGG
+2017,86,88,7,no,IIEST shibpur
+2016,74,94,1,no,KLEF hydrabad
+2015,75,91,8,no,University college of ENGG
+2018,84,92,2,no,BIT Mesra
+2019,81,93,1,yes,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,yes,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,no,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,no,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,no,IIT indore
+2018,80,89,6,yes,Netaji Subhas IT
+2018,86,87,8,no,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,no,BITS pilani
+2019,85,89,9,no,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2018,85,89,5,yes,IIT palakkad
+2018,81,88,4,yes,Ahemedabad IT
+2017,89,94,5,yes,S O A  university
+2016,88,88,5,yes,SRMIST chennai
+2016,88,88,6,no,IIT bhilai
+2018,94,94,5,no,IIT jammu
+2018,93,85,2,no,NMIMS
+2019,89,81,3,no,IIT jodhpur
+2017,88,82,6,yes,SSN college of ENGG
+2015,75,88,3,no,VIT vellore
+2018,85,88,6,no,DTU delhi
+2019,76,94,7,no,IIT ropar
+2018,94,93,1,no,IIT mandi
+2017,75,89,8,yes,IIIT hydrabad
+2017,89,88,3,yes,NIT warangal
+2019,82,94,9,yes,IIT tirupati
+2018,84,91,5,yes,HBUT kanpur
+2016,85,92,2,yes,MNNIT allahabad
+2017,86,93,1,yes,IIT goa
+2019,91,94,3,no,Manipal IT
+2019,76,91,1,no,IIT palakkad
+2015,83,84,6,yes,Ahemedabad IT
+2019,86,88,1,yes,SSN college of ENGG
+2017,86,88,7,yes,IIEST shibpur
+2016,74,94,1,yes,KLEF hydrabad
+2015,75,91,8,no,University college of ENGG
+2018,84,92,2,yes,BIT Mesra
+2019,81,93,1,no,MNIT jaipur
+2018,82,94,6,yes,BMS college of ENGG
+2018,93,85,2,no,NMIMS
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,yes,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,no,BIT Mesra
+2018,94,94,2,no,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,no,MSIT
+2019,86,93,1,no,IIT Bombay
+2018,89,94,1,no,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,yes,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,80,89,6,no,Netaji Subhas IT
+2018,86,87,8,no,NIT trichy
+2019,78,85,11,no,IIT indore
+2017,85,81,5,no,BITS pilani
+2019,89,81,3,yes,IIT jodhpur
+2017,88,82,6,no,SSN college of ENGG
+2016,94,89,4,no,IIEST shibpur
+2015,91,93,4,no,KLEF hydrabad
+2018,92,89,6,no,University college of ENGG
+2019,93,88,1,yes,BIT Mesra
+2018,94,94,2,yes,MNIT jaipur
+2017,91,91,1,yes,BMS college of ENGG
+2017,84,92,3,yes,MSIT
+2019,86,93,1,yes,IIT Bombay
+2018,89,94,1,yes,IIT delhi
+2017,87,91,8,no,IIT kanpur
+2016,86,84,1,no,IIT kharagpur
+2018,95,86,9,yes,IIT guwahati
+2019,85,89,9,yes,IIT hydrabad
+2016,86,87,6,yes,IIT indore
+2018,80,89,6,yes,Netaji Subhas IT
+2018,86,87,8,no,NIT trichy
+2019,78,85,11,yes,IIT indore
+2017,85,81,5,no,BITS pilani
